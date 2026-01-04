@@ -2,14 +2,14 @@
  * main.cpp
  *
  *  Created on: 2026年1月4日
- *      Author: meraki-zhang
+ *      Author: Meraki Zhang
  */
 
-#include <iostream>
+#include "main.hpp"
 
 int main(){
 
-	std::cout << "Hello, World!";
+	helloWorld();
 	return 0;
 }
 
